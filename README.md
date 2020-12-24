@@ -10,7 +10,7 @@ My first HTML project when learning web development.
 
 ### Landing Page:
 
-![landing page image](screenshots/ninjacv.png)
+![landing page image](images/ninjacv.png)
 
 ## Summary
 
